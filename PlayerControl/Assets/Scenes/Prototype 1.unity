@@ -964,7 +964,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5616438301335047752, guid: c26eb38a2cb05a9469cf09e57c677fc3, type: 3}
       propertyPath: cameraSwitch
-      value: 271
+      value: 127
       objectReference: {fileID: 0}
     - target: {fileID: 6437836531191894541, guid: c26eb38a2cb05a9469cf09e57c677fc3, type: 3}
       propertyPath: cameras.Array.data[0]
